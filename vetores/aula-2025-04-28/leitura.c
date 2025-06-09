@@ -12,7 +12,7 @@ int main()
 
     printf("Elementos do Vetor:\n");
     for(int i = 0; i < n; i++){
-        printf("Posição %d: %d\n", i, vetor[i]);
+        printf("Posição %d: %d\n", i, vetor[i]);    
     }
     
     return 0;
